@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there! Welcome to my Github!<br>
+I am a student studying computer science.<br>
 
-<!--
-**park-hyunbin/park-hyunbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- Hankuk University of Foreign Studies, EIT, sophomore
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+<a href="mailto:choiemh@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on ...
+- Python Language
+
+## 🔥 Experience
+- Python Programming Education called "HUFS! START-UP! PYTHON" [21.06~21.08]
+
+
+## 🏆 Awards
+- Certificate of HUFS! START-UP! PYTHON
+
+## 🛠 Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
