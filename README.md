@@ -14,8 +14,5 @@ I am a student studying computer science.<br>
 - Python Programming Education called "HUFS! START-UP! PYTHON" [21.06~21.08]
 
 
-## 🏆 Awards
-- Certificate of HUFS! START-UP! PYTHON
-
 ## 🛠 Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
